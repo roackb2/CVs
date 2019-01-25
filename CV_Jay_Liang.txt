@@ -1,0 +1,49 @@
+----------
+BASIC INFO
+----------
+Liang, Wei – Jie (Jay Liang)
+No.153, 12 Neighborhood, Futian, Yuanli Township, Miaoli County 358, Taiwan (R.O.C.)
+roackb2@gmail.com | +886 0988-370897 | https://github.com/roackb2
+---------
+EDUCATION
+---------
+National Taiwan University (Sep. 2010 — Jan. 2018)
+Department of Management Information System, Bachelor & Master degree
+-----------------------
+PROFESSIONAL EXPERIENCE
+-----------------------
+ALCHEMA, IoT company (July 2017 — Now)
+Software Director, Backend Developer
+• In charge of software development roadmap planning to support business strategies.
+• Establish KPI and do agile coaching, lead the mobile app dev team to fulfill strategic goals.
+• Build the whole RESTful API backend with my own rapid development library called j2s.
+• Design scalable infra architecture with AWS ECS, automate deployment with Terraform.
+• Build web app for data management, monitoring and measurements with React & Redux.
+Tagtoo, RTB company (Feb. 2016 — July 2017)
+Contract Architect
+• Optimize developing process by containerizing building environment with GCP.
+Vpon, RTB company (July 2015 — Jan. 2016)
+Internship
+• Survey Kubernetes to help the company migrate applications onto it, deployed by Ansible.
+• Investigate MySQL Fabric for sharding, and AWS CloudFormation for system deployment.
+Somer, startup team (Apr. 2014 — Sep. 2015)
+Co-founder, Android Developer, Backend Manager
+• An anonymous social platform for people to truly express themselves with their real friends.
+• 10,000-50,000 total downloads on Google Play, rated 4.08.
+• The team consists of 6 people specializing of marketing, UI design, and app developments.
+• Responsible for the whole app on Android platform, and server side powered by Parse.
+• Google Play Link:https://play.google.com/store/apps/details?id=com.somer.murmur
+j2s, npm modules (June 2016 — May 2018)
+Publisher
+• Open source project for rapid RESTful API construction in Node.js.
+• https://www.npmjs.com/package/j2s
+------
+HONORS
+------
+Silicon Valley Taiwan Program (Jan. 2015 — Jan. 2015)
+ • Selected as one of the 10 teams to participate a 2 weeks program at P&P Tech Center, San Jose.
+From IP to IPO Program (Jun. 2014 — Oct. 2014)
+• Top 10 out of 40 teams in this startup competition, won 500,000 NTD prize.
+FbStart Bootstrap Program Oct. (2014 — Apr. 2015)
+• Invited by Facebook to join this program, sponsored by third-party services that equivalent to
+300,000 NTD.
