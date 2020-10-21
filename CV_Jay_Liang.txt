@@ -12,14 +12,17 @@ Department of Management Information System, Bachelor & Master degree
 -----------------------
 PROFESSIONAL EXPERIENCE
 -----------------------
-ALCHEMA, IoT company (July 2017 — Now)
+Hang Jian Tech, UAV applications (Sep. 2019 — Now)
+Chief Technology Officer
+• Design architecture of a system called Topology that enables UAV with 4G/5G connection, which facilitates remote control and mission planning without distance limitation.
+ALCHEMA, IoT company (Sep 2016 — Aug. 2019)
 Software Director, Backend Developer
 • In charge of software development roadmap planning to support business strategies.
 • Establish KPI and do agile coaching, lead the mobile app dev team to fulfill strategic goals.
 • Build the whole RESTful API backend with my own rapid development library called j2s.
 • Design scalable infra architecture with AWS ECS, automate deployment with Terraform.
 • Build web app for data management, monitoring and measurements with React & Redux.
-Tagtoo, RTB company (Feb. 2016 — July 2017)
+Tagtoo, RTB company (Feb. 2016 — Aug. 2016)
 Contract Architect
 • Optimize developing process by containerizing building environment with GCP.
 Vpon, RTB company (July 2015 — Jan. 2016)
